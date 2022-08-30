@@ -10,3 +10,4 @@ To complete the assignment, you’ll need to do the following:
 2. Modify the existing authentication middleware so that it works in the context of a GraphQL API.
 
 3. Create an Apollo Provider so that requests can communicate with an Apollo Server.
+![Screenshot (15)](https://user-images.githubusercontent.com/106851538/187322884-f61ff5c7-7cd1-440b-86c1-daf2f71ba5b7.png)
